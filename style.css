@@ -1,12 +1,12 @@
 /* Basic Reset */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    scroll-behavior: smooth; /* This makes the jumping look professional */
+  scroll-behavior: smooth; /* This makes the jumping look professional */
 }
 
 /* Header Specific Styling */
@@ -80,8 +80,8 @@ html {
 
 /* Section Styling */
 section {
-    padding: 80px 20px; /* Padding for the sticky nav */
-    border-bottom: 1px solid #eee;
+  padding: 80px 20px; /* Padding for the sticky nav */
+  border-bottom: 1px solid #eee;
 }
 
 .hero {
